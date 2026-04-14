@@ -1,0 +1,20 @@
+{
+    "decoracao":[
+        {"nome":"Vaso de Vidro Decorativo",
+        "peso_kg": 3,
+        "preco": 98, 
+        "fragil":true
+        },
+        {"nome":"Quadro Impressionista",
+        "peso_kg": 2,
+        "preco": 498, 
+        "fragil":true
+        }
+    ],
+    "limpeza":{
+        "nome":"Água sanitária",
+        "peso_kg": 2,
+        "preco": 10, 
+        "fragil":false
+    }
+}
